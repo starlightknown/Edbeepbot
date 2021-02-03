@@ -19,7 +19,7 @@ Instructions
 `mkdir retweet-bot`
 
 * Create a new [Twitter Application](https://apps.twitter.com/app/new). This is where you'll generate your keys, tokens, and secrets.
-* Fill in your keys, tokens, and secrets in the keys.py file.
+* Fill in your keys, tokens, and secrets.
 * Check comments in retweet.py to tweak the retweet bot to your liking.
 * The example demonstrates a single hashtag value, but you can tweak the code to search multiple hashtags. Example:
 
