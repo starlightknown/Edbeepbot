@@ -23,7 +23,7 @@ Instructions
 * Check comments in eddiebot.py to tweak the retweet bot to your liking.
 * The example demonstrates a single hashtag value, but you can tweak the code to search multiple hashtags. Example:
 
- `q='%23apples%20OR%20%23oranges' will search #apples OR #oranges`
+ `Search = "BOT"` This will search bot in tweets and retweet it. You can use words of your choice.
 * Run your eddiebot.py script. Enjoy! 
 
 `python3 eddiebot.py`
