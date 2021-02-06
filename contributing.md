@@ -54,7 +54,7 @@ If you're not on Windows, you should also have GNU make installed, and you can o
     ```bash
     python3 -m venv venv
     ```
-    Edbeepbot, its dependencies, and all required development tools, are now installed to a virtual environment located in the `.venv` subdirectory. TearDrops is installed in editable mode, meaning that edits you make to the source code in the repository will be reflected when you run Edbeepbot.
+    Edbeepbot, its dependencies, and all required development tools, are now installed to a virtual environment located in the `.venv` subdirectory.Edbeepbot is installed in editable mode, meaning that edits you make to the source code in the repository will be reflected when you run Edbeepbot.
 3. Activate the new virtual environment with one of the following commands:
     - Linux:
         ```bash
