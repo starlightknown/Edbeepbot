@@ -22,19 +22,14 @@ We love receiving contributions from our community. Any assistance you can provi
 1. Ensure cross compatibility for Windows, Mac OS and Linux.
 2. Ensure all Python features used in contributions exist and work in Python 3.8.1 and above.
 3. Create any issues for new features you'd like to implement and explain why this feature is useful to everyone and not just you personally.
-4. Don't add new cogs unless specifically given approval in an issue discussing said cog idea.
-5. Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. See [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/).
-6. Get yourself assigned to an issue before working on the PR to avoid double work. 
+4. Be welcoming to newcomers and encourage diverse new contributors from all backgrounds. See [Python Community Code of Conduct](https://www.python.org/psf/codeofconduct/). 
 
 # 3. Your First Contribution
 Unsure of how to get started contributing to ? Please take a look at the Issues section of this repo and sort by the following labels:
 
 * good first issue - issues that can normally be fixed in just a few lines of code and maybe a test or two.
 * help-wanted - issues that are currently unassigned to anyone and may be a bit more involved/complex than issues tagged with beginner.
-
-**Working on your first Pull Request?** You can learn how from this *free* series [How to Contribute to an Open Source Project on GitHub](https://egghead.io/series/how-to-contribute-to-an-open-source-project-on-github)
-
-At this point you're ready to start making changes. Feel free to ask for help; everyone was a beginner at some point!
+* Feel free to ask for help; everyone was a beginner at some point!
 
 # 4. Getting Started
 
