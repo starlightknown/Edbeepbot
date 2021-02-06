@@ -1,4 +1,5 @@
-# Edbeepbot - A bot which retweets #Eddiehub 
+# Edbeepbot - A bot which retweets #Eddiehub and replies with Eddie Quotes
+<a href="https://github.com/kcoder63/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built with Love"></a><br>
 # Twitter Retweet Bot using Python & Tweepy
 A Python-built Twitter retweet bot using Tweepy. Searches and retweets based on hashtag or keyword. Can do multiple keywords, or hashtags.
 
@@ -24,6 +25,7 @@ Instructions
 * The example demonstrates a single hashtag value, but you can tweak the code to search multiple hashtags. Example:
 
  `Search = "BOT"` This will search bot in tweets and retweet it. You can use words of your choice.
+ You can add your collection of Eddie Quotes to quotes.py.
 * Run your eddiebot.py script. Enjoy! 
 
 `python3 eddiebot.py`
