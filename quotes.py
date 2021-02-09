@@ -5,5 +5,6 @@ quotes = [
     "Collaboration First Code Second ~Eddie",
     "Green Square a day keeps eddie away ~Eddie",
     "Open Source is for everyone...yes YOU! ~Eddie",
-    "Community first,Code second ~ EddieHub"
+    "Community first,Code second ~ EddieHub",
+    "the best way to learn a spoken language is to live in the country and learn which applies to open source too ~ Eddie"
 ]
