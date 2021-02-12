@@ -23,12 +23,12 @@ Instructions
 
 * Create a new [Twitter Application](https://apps.twitter.com/app/new). This is where you'll generate your keys, tokens, and secrets.
 * Fill in your keys, tokens, and secrets.
-* Check comments in eddiebot.py to tweak the retweet bot to your liking.
+* Check comments in main.py to tweak the retweet bot to your liking.
 * The example demonstrates a single hashtag value, but you can tweak the code to search multiple hashtags. Example:
 
  `Search = "BOT"` This will search bot in tweets and retweet it. You can use words of your choice.
  You can add your collection of Eddie Quotes to quotes.py.
 * Run your eddiebot.py script. Enjoy! 
 
-`python3 eddiebot.py`
+`python3 main.py`
 
