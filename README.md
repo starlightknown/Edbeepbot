@@ -1,4 +1,5 @@
-# Edbeepbot - A bot which retweets #Eddiehub and replies with Eddie Quotes
+# Edbeepbot - An open source bot which retweets #Eddiehub and replies with Eddie Quotes
+# Please do read CONTRIBUTING.md if you want to contribute to this project
 ## @Edbeepbot on twitter
 <a href="https://twitter.com/Edbeepbot" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
 <a href="https://github.com/kcoder63/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built with Love"></a><br>
