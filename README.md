@@ -1,4 +1,4 @@
-# Edbeepbot - An open source bot which retweets #Eddiehub and replies with Eddie Quotes
+# Edbeepbot - An open source bot which retweets #Eddiehub and replies with Eddie Quotes with Images
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -23,16 +23,15 @@ Instructions
 
 * Out of general OS hygiene, create a new directory to contain all of your retweet bot files.
 
-`mkdir retweet-bot`
+`mkdir edbeepbot`
 
 * Create a new [Twitter Application](https://apps.twitter.com/app/new). This is where you'll generate your keys, tokens, and secrets.
-* Fill in your keys, tokens, and secrets.
-* Check comments in main.py to tweak the retweet bot to your liking.
+* Fill in your keys, tokens, and secrets in keys.py
 * The example demonstrates a single hashtag value, but you can tweak the code to search multiple hashtags. Example:
 
- `Search = "BOT"` This will search bot in tweets and retweet it. You can use words of your choice.
+ `Search = "BOT"` This will search bot in tweets and retweet and reply to it. You can use words,images and quotes of your choice.
  You can add your collection of Eddie Quotes to quotes.py.
-* Run your eddiebot.py script. Enjoy! 
+* Run your main.py script. Enjoy! 
 
 `python3 main.py`
 
