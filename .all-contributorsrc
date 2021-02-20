@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jai-dewani",
+      "name": "Jai Kumar Dewani",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33520257?v=4",
+      "profile": "https://jaid.tech/",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "Edbeepbot",
+  "projectOwner": "kcoder63",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
