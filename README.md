@@ -1,6 +1,6 @@
 # Edbeepbot - An open source bot which retweets #Eddiehub and replies with Eddie Quotes
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Please do read [CONTRIBUTING.md](https://github.com/kcoder63/Edbeepbot/blob/main/CONTRIBUTING.md) if you want to contribute to this project
 ## @Edbeepbot on twitter
@@ -47,6 +47,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://jaid.tech/"><img src="https://avatars.githubusercontent.com/u/33520257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jai Kumar Dewani</b></sub></a><br /><a href="https://github.com/kcoder63/Edbeepbot/commits?author=jai-dewani" title="Code">💻</a></td>
+    <td align="center"><a href="https://github.com/Vyvy-vi"><img src="https://avatars.githubusercontent.com/u/62864373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vyom Jain</b></sub></a><br /><a href="#question-vyvy-vi" title="Answering Questions">💬</a></td>
   </tr>
 </table>
 
