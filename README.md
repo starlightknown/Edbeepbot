@@ -1,4 +1,7 @@
 # Edbeepbot - An open source bot which retweets #Eddiehub and replies with Eddie Quotes
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Please do read [CONTRIBUTING.md](https://github.com/kcoder63/Edbeepbot/blob/main/CONTRIBUTING.md) if you want to contribute to this project
 ## @Edbeepbot on twitter
 <a href="https://twitter.com/Edbeepbot" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
@@ -33,3 +36,23 @@ Instructions
 
 `python3 main.py`
 
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="https://jaid.tech/"><img src="https://avatars.githubusercontent.com/u/33520257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jai Kumar Dewani</b></sub></a><br /><a href="https://github.com/kcoder63/Edbeepbot/commits?author=jai-dewani" title="Code">💻</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
