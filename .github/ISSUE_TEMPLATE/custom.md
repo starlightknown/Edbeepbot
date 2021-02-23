@@ -1,8 +1,8 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Bug Report
+about: Use this template to report a bug
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
