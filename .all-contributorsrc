@@ -22,6 +22,15 @@
       "contributions": [
         "question"
       ]
+    },
+    {
+      "login": "adityaraute",
+      "name": "Aditya Raute",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43912470?v=4",
+      "profile": "https://github.com/adityaraute",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "contributorsPerLine": 7,
