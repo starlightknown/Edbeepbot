@@ -2,8 +2,7 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-Please do read [CONTRIBUTING.md](https://github.com/kcoder63/Edbeepbot/blob/main/CONTRIBUTING.md) if you want to contribute to this project
-## @Edbeepbot on Twitter
+## [@Edbeepbot](https://twitter.com/Edbeepbot) on Twitter
 
 Edbeepbot is a Twitter bot which replies and retweets tweets which include #EddieHub
 
@@ -22,6 +21,7 @@ What You Need && Need to Know
 `pip3 install tweepy`
 
 * Make sure you fully understand [Twitter's Rules on Automation](https://support.twitter.com/articles/76915). Play nice. Don't spam! 
+* Please do read [CONTRIBUTING.md](https://github.com/kcoder63/Edbeepbot/blob/main/CONTRIBUTING.md) if you want to contribute to this project.
 
 Instructions
 ----------
