@@ -2,8 +2,11 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-# Please do read [CONTRIBUTING.md](https://github.com/kcoder63/Edbeepbot/blob/main/CONTRIBUTING.md) if you want to contribute to this project
+Please do read [CONTRIBUTING.md](https://github.com/kcoder63/Edbeepbot/blob/main/CONTRIBUTING.md) if you want to contribute to this project
 ## @Edbeepbot on Twitter
+
+Edbeepbot is a Twitter bot which replies and retweets tweets which include #EddieHub
+
 <img src="twitter.png">
 <a href="https://twitter.com/Edbeepbot" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
 <a href="https://github.com/kcoder63/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love"></a><br>
