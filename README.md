@@ -1,10 +1,11 @@
-# Edbeepbot - An open source bot which retweets #Eddiehub and replies with Eddie Quotes with Images
+# EDBEEPBOT 
+
+### An open source bot which retweets '#Eddiehub' and replies with Eddie Quotes and Images
+
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 ## [@Edbeepbot](https://twitter.com/Edbeepbot) on Twitter
-
-Edbeepbot is a Twitter bot which replies and retweets tweets which include #EddieHub
 
 <img src="twitter.png">
 <a href="https://twitter.com/Edbeepbot" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
