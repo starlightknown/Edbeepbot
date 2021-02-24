@@ -3,10 +3,10 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Please do read [CONTRIBUTING.md](https://github.com/kcoder63/Edbeepbot/blob/main/CONTRIBUTING.md) if you want to contribute to this project
-## @Edbeepbot on twitter
+## @Edbeepbot on Twitter
 <img src="twitter.png">
 <a href="https://twitter.com/Edbeepbot" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="center"></a>
-<a href="https://github.com/kcoder63/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="built with Love"></a><br>
+<a href="https://github.com/kcoder63/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg" alt="Built with Love"></a><br>
 
 ## Twitter Reply-Retweet Bot using Python & Tweepy
 A Python-built Twitter retweet bot using Tweepy. Searches and retweets based on hashtag or keyword. Can do multiple keywords, or hashtags.
@@ -28,12 +28,12 @@ Instructions
 `mkdir edbeepbot`
 
 * Create a new [Twitter Application](https://apps.twitter.com/app/new). This is where you'll generate your keys, tokens, and secrets.
-* Fill in your keys, tokens, and secrets in keys.py
+* Fill in your keys, tokens, and secrets in `keys.py`
 * The example demonstrates a single hashtag value, but you can tweak the code to search multiple hashtags. Example:
 
- `Search = "BOT"` This will search bot in tweets and retweet and reply to it. You can use words,images and quotes of your choice.
- You can add your collection of Eddie Quotes to quotes.py.
-* Run your main.py script. Enjoy! 
+ `Search = "BOT"` This will search bot in tweets and retweet and reply to it. You can use words, images and quotes of your choice.
+ You can add your collection of Eddie Quotes to `quotes.py`.
+* Run your `main.py` script. Enjoy! 
 
 `python3 main.py`
 
