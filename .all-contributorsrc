@@ -31,6 +31,15 @@
       "contributions": [
         "bug"
       ]
+    },
+    {
+      "login": "patel-himanshu",
+      "name": "Himanshu Patel",
+      "avatar_url": "https://avatars.githubusercontent.com/u/44549418?v=4",
+      "profile": "https://linkedin.com/in/patel-himanshu",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "contributorsPerLine": 7,

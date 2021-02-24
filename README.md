@@ -1,6 +1,6 @@
 # Edbeepbot - An open source bot which retweets #Eddiehub and replies with Eddie Quotes with Images
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 # Please do read [CONTRIBUTING.md](https://github.com/kcoder63/Edbeepbot/blob/main/CONTRIBUTING.md) if you want to contribute to this project
 ## @Edbeepbot on Twitter
@@ -50,6 +50,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://jaid.tech/"><img src="https://avatars.githubusercontent.com/u/33520257?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jai Kumar Dewani</b></sub></a><br /><a href="https://github.com/kcoder63/Edbeepbot/commits?author=jai-dewani" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/Vyvy-vi"><img src="https://avatars.githubusercontent.com/u/62864373?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Vyom Jain</b></sub></a><br /><a href="#question-vyvy-vi" title="Answering Questions">💬</a></td>
     <td align="center"><a href="https://github.com/adityaraute"><img src="https://avatars.githubusercontent.com/u/43912470?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Aditya Raute</b></sub></a><br /><a href="https://github.com/kcoder63/Edbeepbot/issues?q=author%3Aadityaraute" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="https://linkedin.com/in/patel-himanshu"><img src="https://avatars.githubusercontent.com/u/44549418?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Himanshu Patel</b></sub></a><br /><a href="https://github.com/kcoder63/Edbeepbot/commits?author=patel-himanshu" title="Documentation">📖</a></td>
   </tr>
 </table>
 
